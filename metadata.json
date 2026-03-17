@@ -1,0 +1,5 @@
+{
+  "name": "TruthLens - Fake News Detector",
+  "description": "An AI-powered system that detects fake news and misinformation from text, links, or images using NLP analysis, credibility scoring, and source verification.",
+  "requestFramePermissions": []
+}
