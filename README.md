@@ -54,7 +54,7 @@ TruthLens processes user input using the Gemini 3.1 Pro model along with real-ti
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/truthlens.git
+git clone https://github.com/your-username/truthlens.git](https://github.com/sam-0001/TruthLence.git
 
 # Navigate into the project
 cd truthlens
